@@ -701,4 +701,7 @@ footer {
   .cta-btn {
     padding: 10px 25px;
   }
+  section {
+    padding: 15px;
+  }
 }
